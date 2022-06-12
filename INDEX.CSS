@@ -1,0 +1,55 @@
+body{
+	background-color: #22867A;
+	width: 100%;
+	height: 100%;
+}
+nav{
+	background-color: #5E1E02;
+	height: 60px;
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	font-display: right side;
+}
+.link{
+	text-decoration: none;
+	align-items: center;
+	text-align: left;
+	flex: wrap left;
+	color: snow;
+	font-size: 25px;
+	font-family:UniQAIDAR_Subtitle_005;
+	margin: 10px;
+	margin-right: auto;
+	margin border-left-width: 20px;
+	border: solid black 2px;
+
+
+}
+img{
+	margin-top: 600px;
+	display: flex;
+	height: 500px;
+	width: 600px;
+	border-image-width: auto;
+}
+.link:hover{
+	font-weight: bold;
+	background-color: black;
+}
+.nusin{
+	border: 3px solid black;
+	margin-top: 40px;
+	width: 39px;
+	height: 80px;
+	text-align: left;
+	font-size: 30px;
+	margin: 33px;
+
+}
+h1{ 
+	background-color: snow;
+	text-align: center;
+	font-family: Unikurd Tishk;
+
+ }
